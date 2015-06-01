@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e59101494d493e30df2f6db09b091463:8bbf63f7a96de08bfaec05049caa92d6:3d353f008071cca15342b6e74ec2925a$ -->
+<TextureAtlas imagePath="deerspritesheet.png">
+    <SubTexture name="deer_01" x="1179" y="2" width="254" height="201" frameX="-26" frameY="-58" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_02" x="973" y="2" width="204" height="202" frameX="-33" frameY="-65" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_03" x="780" y="2" width="191" height="207" frameX="-35" frameY="-59" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_04" x="557" y="2" width="221" height="197" frameX="-13" frameY="-69" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_05" x="280" y="2" width="275" height="193" frameX="-13" frameY="-58" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_06" x="2" y="2" width="276" height="203" frameX="-9" frameY="-55" frameWidth="300" frameHeight="300"/>
+</TextureAtlas>

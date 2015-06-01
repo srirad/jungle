@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c3410e5be9dbaeaf017e804e22dca235:f425e089029ea42a6bcb4976c42b8695:ef7663426bf705b25566a93aef3a1571$ -->
+<TextureAtlas imagePath="spritesheet.png">
+    <SubTexture name="bird_01" x="556" y="118" width="285" height="123" frameX="-9" frameY="-93" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="bird_02" x="277" y="118" width="277" height="121" frameX="-13" frameY="-113" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="bird_03" x="2" y="2" width="273" height="103" frameX="-13" frameY="-94" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="bird_04" x="2" y="243" width="287" height="125" frameX="-8" frameY="-84" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_001" x="709" y="572" width="254" height="201" frameX="-26" frameY="-58" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_002" x="2" y="775" width="204" height="202" frameX="-33" frameY="-65" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_003" x="696" y="775" width="191" height="207" frameX="-35" frameY="-59" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_004" x="486" y="572" width="221" height="197" frameX="-13" frameY="-69" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_005" x="209" y="572" width="275" height="193" frameX="-13" frameY="-58" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="deer_006" x="208" y="775" width="276" height="203" frameX="-9" frameY="-55" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="goat_0001" x="533" y="380" width="253" height="187" frameX="-22" frameY="-66" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="goat_0002" x="2" y="572" width="205" height="192" frameX="-33" frameY="-65" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="goat_0003" x="486" y="775" width="208" height="204" frameX="-19" frameY="-60" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="goat_0004" x="788" y="380" width="219" height="190" frameX="-29" frameY="-63" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="goat_0005" x="274" y="380" width="257" height="176" frameX="-9" frameY="-67" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="orangebird_01" x="547" y="2" width="246" height="109" frameX="-24" frameY="-112" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="orangebird_02" x="877" y="243" width="251" height="135" frameX="-24" frameY="-112" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="orangebird_03" x="795" y="2" width="273" height="114" frameX="-24" frameY="-112" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="orangebird_04" x="277" y="2" width="268" height="107" frameX="-19" frameY="-139" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="parrot_01" x="291" y="243" width="293" height="127" frameX="-3" frameY="-95" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="parrot_02" x="2" y="380" width="270" height="146" frameX="-20" frameY="-95" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="parrot_03" x="2" y="118" width="273" height="121" frameX="-15" frameY="-72" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="parrot_04" x="586" y="243" width="289" height="129" frameX="-6" frameY="-77" frameWidth="300" frameHeight="300"/>
+</TextureAtlas>
